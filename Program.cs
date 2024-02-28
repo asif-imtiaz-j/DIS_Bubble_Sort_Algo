@@ -4,7 +4,7 @@ Date: 2/28/2024
 Comments: This C# Console Application code demonstrates the
     Bubble Sort Algorithms. No input
     is required for the script. It will execute without 
-    input against two pre-populated array. 
+    input against the pre-populated array. 
 */
 
 int[] bubble_sort_numbers = { 3, 62, 5, 16, 4, 10 };
