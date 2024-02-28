@@ -1,5 +1,5 @@
 ﻿/*
-Author: Asif Imtiaz
+Author: Asif Imtiaz (Edited bu Pratik Jaiswal)
 Date: 2/28/2024
 Comments: This C# Console Application code demonstrates the
     Bubble Sort Algorithms. No input
